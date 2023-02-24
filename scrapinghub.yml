@@ -1,0 +1,4 @@
+project: 639487
+stack: scrapy:2.7
+requirements:
+  file: requirements_scrapinghub.txt
